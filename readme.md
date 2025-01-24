@@ -1,4 +1,5 @@
 Welcome to the BBDC bot!
+
 Setup: https://go.zhengjia.dev/bbdcsetup
 
 Requirements:
