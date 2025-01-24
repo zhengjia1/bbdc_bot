@@ -1,5 +1,6 @@
 Welcome to the BBDC bot!
 Setup: https://go.zhengjia.dev/bbdcsetup
+
 Requirements:
 1. Python 3.11 or later
 2. Working computer with access to the internet
